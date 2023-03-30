@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../Downloads/Tutorial Exclusive Eportfolio/Tutorial Exclusive Eportfolio/assets"
+		},
+		{
+			"name": "JS E-Portfolio",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS E-Portfolio"
+	}
+}
